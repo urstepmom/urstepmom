@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @urstepmom
+- 👀 I’m interested in making discord bots using disord.py
+- 🌱 I’m currently learning discord.py and python
+- 💞️ I’m looking to collaborate on my latest bot
+- 📫 How to reach me through discord (urstepmom#5042)
